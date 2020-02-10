@@ -6,7 +6,7 @@ public class MySQLExample {
 	public static void main(String[] args) {
 		
 		try {
-			
+			//more testing with github
 			Properties props = new Properties();
 			FileInputStream in = new FileInputStream("db.properties");
 			props.load(in);
