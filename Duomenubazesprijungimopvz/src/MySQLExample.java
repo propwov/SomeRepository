@@ -4,7 +4,7 @@ import java.util.Properties;
 public class MySQLExample {
 
 	public static void main(String[] args) {
-		
+		//trying commit in gitextension
 		try {
 			//more testing with github
 			Properties props = new Properties();
