@@ -28,7 +28,7 @@ public class MySQLExample {
 			
 			System.out.println(rs.getInt("CustomerNumber"));
 			System.out.println(rs.getString("ContactFirstName"));
-			testas
+			//testas dar vienas testas
 			}
 			
 		}catch (Exception e) {
